@@ -1,4 +1,4 @@
-<div class="columns-25-75" id="main-content" role="main">
+<div class="columns-intra columns-intra-25-75" id="main-content" role="main">
 
 	<div class="portlet-layout row-fluid">
 		<div class="portlet-column portlet-column-first span3" id="column-1">
