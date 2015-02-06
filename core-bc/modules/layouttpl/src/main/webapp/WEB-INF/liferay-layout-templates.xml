@@ -15,12 +15,17 @@
 			<thumbnail-path>/layout_25_75.png</thumbnail-path>
 		</layout-template>
 
-	<layout-template id="layout_25_50_25" name="Intra 25-50-25">
-		<template-path>/layout_25_50_25.tpl</template-path>
-		<wap-template-path>/layout_25_50_25.wap.tpl</wap-template-path>
-		<thumbnail-path>/layout_25_50_25.png</thumbnail-path>
-	</layout-template>
+		<layout-template id="layout_25_50_25" name="Intra 25-50-25">
+			<template-path>/layout_25_50_25.tpl</template-path>
+			<wap-template-path>/layout_25_50_25.wap.tpl</wap-template-path>
+			<thumbnail-path>/layout_25_50_25.png</thumbnail-path>
+		</layout-template>
 
+		<layout-template id="layout_75_25" name="Intra 75-25">
+			<template-path>/layout_75_25.tpl</template-path>
+			<wap-template-path>/layout_75_25.wap.tpl</wap-template-path>
+			<thumbnail-path>/layout_75_25.png</thumbnail-path>
+		</layout-template>
 
   </custom>
 </layout-templates>
