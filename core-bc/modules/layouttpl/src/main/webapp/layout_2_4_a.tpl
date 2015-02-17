@@ -1,6 +1,6 @@
 <div class="columns-intra columns-intra-2-4-a" id="main-content" role="main">
 
-	<div class="portlet-layout row-fluid">
+	<div class="portlet-layout row-fluid row-1">
 		<div class="portlet-column portlet-column-first span9" id="column-1">
 			$processor.processColumn("column-1", "portlet-column-content portlet-column-content-first")
 		</div>
@@ -9,7 +9,7 @@
 		</div>
 	</div>
 
-	<div class="portlet-layout row-fluid">
+	<div class="portlet-layout row-fluid row-2">
 		<div class="portlet-column portlet-column-first span3" id="column-3">
 			$processor.processColumn("column-3", "portlet-column-content portlet-column-content-first")
 		</div>
