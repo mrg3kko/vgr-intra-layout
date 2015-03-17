@@ -2,30 +2,4 @@
 
 This project contains Liferay layout templates used to define the grid system on a page in a Liferay portal.
 
-
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+![Screenshot of Intra 2-4-a layout template](https://bytebucket.org/monator/vgr-intra-layout/raw/51932ec19838a537e50772e9bb0c87a56d439e35/documentation/ans-intra-screen-columns-overlay.png?token=cbb334c07d605f959c8736a2669cf61ce04b4426)
